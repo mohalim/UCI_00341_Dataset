@@ -25,3 +25,7 @@ The following is the activity labels, which can be found in 'activity_labels.txt
 12. LIE_TO_STAND      
 
 This script combines the individual acc data and gyro data, and label each row with its correponding activity class based on 'labels.txt'. Notice that some rows are not annotated in 'labels.txt'. Thus, the rows are labeled with -1.
+
+Folder UCI_00341 contains the original raw data.
+
+Folder Annotated_Data contains the processed (labeled) data.
