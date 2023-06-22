@@ -1,4 +1,4 @@
-# UCI_341_Dataset
+# UCI_00341_Dataset
 Smartphone-Based Recognition of Human Activities and Postural Transitions
 
 The details of the dataset can be found at https://archive.ics.uci.edu/dataset/341/smartphone+based+recognition+of+human+activities+and+postural+transitions.
